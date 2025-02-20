@@ -5,7 +5,7 @@
 
 ## 🌟 Overview
 
-A utility to block Spotify ads on MacOS and Linux hosts files.
+A utility to block Spotify ads on MacOS and Linux host files.
 
 ## ⚠️ Important Note
 
@@ -35,6 +35,9 @@ sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/free-spotify
 ```
 
 ## 🙌 Credits
+
 Inspired by SpotifyAdBlock
+
 ## 📄 License
-MIT License
+
+MIT License [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
