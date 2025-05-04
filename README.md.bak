@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # 🎵 free-spotify 🎧
 
 [![Hits-of-Code](https://hitsofcode.com/github/cuongndc9/free-spotify)](https://hitsofcode.com/view/github/cuongndc9/free-spotify)
