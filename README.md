@@ -43,6 +43,6 @@ Inspired by SpotifyAdBlock
 MIT License [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🦄
+The best way to predict the future is to create it.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
