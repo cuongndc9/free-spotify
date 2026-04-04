@@ -10,6 +10,6 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 # Remove the specified section from hosts file
-sed -i '/###---------- free-spotify ----------###/,/###---------- made by @cuongndc9 ----------###/d' "$PATH_HOSTS"
+sed -i '/###---------- free-spotify ----------###/,/###---------- made by @cuongtk8 ----------###/d' "$PATH_HOSTS"
 
 echo "Uninstall free-spotify successfully"
